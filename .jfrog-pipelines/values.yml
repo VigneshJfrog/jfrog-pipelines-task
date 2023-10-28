@@ -2,9 +2,9 @@ taskName: pipelinesTask
 primaryResource: vigneshs
 gitProvider: myGithub
 artifactory: myArtifactory # rename if the artifactory integration is different
-repoPath:
+repoPath: VigneshJfrog/jfrog-pipelines-task/
 mainBranch: main
 protocol: https
 buildOnCommit: true
 publishOnCommit: false
-pipelineName: jfrog-pipelines-task
+pipelineName: "jfrog-pipelines-task"
