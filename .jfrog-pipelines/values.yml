@@ -1,6 +1,6 @@
 taskName:
 primaryResource:
-gitProvider:
+gitProvider: myGithub
 artifactory: myArtifactory # rename if the artifactory integration is different
 repoPath:
 mainBranch: main
