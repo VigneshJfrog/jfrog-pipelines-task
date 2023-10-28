@@ -1,5 +1,5 @@
 taskName: pipelinesTask
-primaryResource: pipelinesTask
+primaryResource: vigneshs
 gitProvider: myGithub
 artifactory: myArtifactory # rename if the artifactory integration is different
 repoPath:
