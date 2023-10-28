@@ -1,4 +1,4 @@
-taskName:
+taskName: pipelinesTask
 primaryResource:
 gitProvider: myGithub
 artifactory: myArtifactory # rename if the artifactory integration is different
@@ -7,4 +7,4 @@ mainBranch: main
 protocol: https
 buildOnCommit: true
 publishOnCommit: false
-pipelineName: 
+pipelineName: jfrog-pipelines-task
