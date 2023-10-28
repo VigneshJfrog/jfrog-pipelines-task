@@ -1,5 +1,5 @@
-taskName: pipelinesTask
-primaryResource: vigneshs
+taskName: jfrog/pipelines-task@v0.0.1
+primaryResource: jfrog/pipelines-task
 gitProvider: myGithub
 artifactory: myArtifactory # rename if the artifactory integration is different
 repoPath: VigneshJfrog/jfrog-pipelines-task/
